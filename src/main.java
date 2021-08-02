@@ -1,5 +1,5 @@
-//Usually you will require both swing and awt packages
-// even if you are working with just swings.
+package src;
+
 import javax.swing.*;
 import java.awt.*;
 class gui {
